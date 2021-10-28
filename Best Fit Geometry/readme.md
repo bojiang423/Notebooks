@@ -3,8 +3,8 @@ Target
 2D Space
 - Best fit line   (Done)
 - Best fit circle 
-  a. Fit a circle from 3 2d points (done)
-  b. RANSAC
+  - Fit a circle from 3 2d points (done)
+  - RANSAC
 
 3D Space
 - Best fit plane
